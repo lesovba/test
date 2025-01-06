@@ -1,0 +1,9 @@
+.answers {
+    padding: 2%;
+}
+ul.answers li {
+    list-style-type: none;
+}
+ul.answers li label {
+    margin-left: 5px;
+}
